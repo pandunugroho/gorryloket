@@ -1,4 +1,4 @@
-### Gorry Loket
+# Gorry Loket
 
 Online Loket reservation
 
@@ -40,4 +40,3 @@ Create Ticket | */event/ticket/create* | POST | Endpoint to create new ticket ty
 Get Event | */event/get_info* | GET | Endpoint to retrieve event information, including location data and ticket data | DONE
 Purchase Ticket | */transaction/purchase* | POST | Endpoint to make a new purchase, customer data is sent via this API | DONE
 Transcation Detail | */transaction/get_info* | GET | Endpoint to retrieve transaction created using endpoint *Purchase Ticket* | DONE
-
