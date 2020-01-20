@@ -19,10 +19,10 @@ Constraints and Requirement
 - [X] One event will have exactly one schedule
 - [X] One schedule might start and end at different day
 - [X] One event might have more than one ticket type
-- [ ] One ticket type must have price and quota, if quota is less than 1 then the ticket cannot be purchased
-- [ ] Customer will be able to make transaction to purchase ticket event
+- [X] One ticket type must have price and quota, if quota is less than 1 then the ticket cannot be purchased
+- [X] Customer will be able to make transaction to purchase ticket event
 - [X] Customer can purchase ticket event many times
-- [ ] For each transaction, customer only can purchase ticket within same event
+- [X] For each transaction, customer only can purchase ticket within same event
 - [X] Within one transaction, customer can purchase more than 1 ticket type, and more than 1 qty per ticket type
 
 
